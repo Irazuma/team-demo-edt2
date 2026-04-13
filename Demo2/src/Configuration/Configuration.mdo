@@ -42,6 +42,7 @@
   <constants>Constant.DemoConfDT</constants>
   <constants>Constant.Константа2</constants>
   <constants>Constant.Константа</constants>
+  <constants>Constant.Константа1</constants>
   <catalogs>Catalog.DemoConfDT</catalogs>
   <catalogs>Catalog.Справочник2</catalogs>
   <documents>Document.Документ</documents>

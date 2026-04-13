@@ -40,5 +40,5 @@
     <languageCode>ru</languageCode>
   </languages>
   <constants>Constant.DemoConfDT</constants>
-  <catalogs>Catalog.Справочник</catalogs>
+  <catalogs>Catalog.DemoConfDT</catalogs>
 </mdclass:Configuration>

@@ -42,4 +42,5 @@
   <constants>Constant.DemoConfDT</constants>
   <constants>Constant.Константа2</constants>
   <catalogs>Catalog.DemoConfDT</catalogs>
+  <catalogs>Catalog.Справочник2</catalogs>
 </mdclass:Configuration>

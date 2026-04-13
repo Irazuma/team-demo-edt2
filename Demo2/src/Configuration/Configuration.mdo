@@ -44,4 +44,6 @@
   <catalogs>Catalog.DemoConfDT</catalogs>
   <catalogs>Catalog.Справочник2</catalogs>
   <documents>Document.Документ</documents>
+  <documents>Document.Документ1</documents>
+  <documentJournals>DocumentJournal.ЖурналДокументов</documentJournals>
 </mdclass:Configuration>

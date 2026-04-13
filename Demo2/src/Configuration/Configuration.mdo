@@ -40,5 +40,6 @@
     <languageCode>ru</languageCode>
   </languages>
   <constants>Constant.DemoConfDT</constants>
+  <constants>Constant.Константа2</constants>
   <catalogs>Catalog.DemoConfDT</catalogs>
 </mdclass:Configuration>
